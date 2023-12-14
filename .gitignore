@@ -1,0 +1,8 @@
+# python vert env
+.venv
+
+# hide the database
+*.sqlite3
+
+# misc
+*.pyc
